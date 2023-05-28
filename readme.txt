@@ -14,6 +14,6 @@ Accessibility: SynLex is available online, making it easily accessible for anyon
 
 In summary, SynLex is a fantastic resource that assists students and language enthusiasts in finding the right synonyms. With its comprehensive collection of words and the ability to quickly search for suitable alternatives, SynLex makes writing easier, more interesting, and more diverse. It's no surprise that both students and crossword enthusiasts have benefited from this impressive resource, which has become a valuable gem in the realm of Swedish language tools.
 
-Visit SynLex today at synlex.com to explore a world of synonyms and enhance your Swedish language journey!
+Visit SynLex today at synlex.se to explore a world of synonyms and enhance your Swedish language journey!
 
 https://synlex.se
