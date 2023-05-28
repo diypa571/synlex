@@ -1,4 +1,5 @@
 <?php
+// Diypa571
 // Ha strängar som ord.. 
 function createWordArray($string) {
   // Trimma space
