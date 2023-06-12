@@ -12,7 +12,7 @@ function createWordArray($string) {
 }
 
 // Example usage
-$string = "Startrek Enterprie är bäst, eller vad tycker?";
+$string = "Startrek Enterprie är bäst, eller vad tycker du?";
 $wordArray = createWordArray($string);
 
 // Print the array of words
